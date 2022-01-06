@@ -8,6 +8,12 @@ index - variable
 2 - someone on bombs
 3 - marked player
 4 - defender team
-5 - attacked object
-
+5 - which obj check for attack
+6 - attacked obj
+7 - initBombPos
+```
+## VariableArray mapping (Player):
+```
+index - variable
+0 - is Player on any obj
 ```
